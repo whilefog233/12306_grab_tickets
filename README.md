@@ -17,8 +17,8 @@ ChromeDriver（自动管理）
 city.json - 城市编码文件（用于查票功能）
 ⚙️ 安装步骤
 1. 克隆项目
-git clone https://github.com/your-username/12306-ticket-booking.git
-cd 12306-ticket-booking
+git clone https://github.com/whilefog233/12306_grab_tickets.git
+
 2. 安装依赖
 pip install
 3. 配置文件设置
